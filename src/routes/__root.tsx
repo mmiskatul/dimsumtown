@@ -83,6 +83,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "author", content: "Dim Sum Town Dhanmondi" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { title: "Dim Sum Town Dhanmondi | Pan-Asian & Dim Sum in Dhaka" },
+      { property: "og:title", content: "Dim Sum Town Dhanmondi | Pan-Asian & Dim Sum in Dhaka" },
+      { name: "twitter:title", content: "Dim Sum Town Dhanmondi | Pan-Asian & Dim Sum in Dhaka" },
+      { name: "description", content: "Hand-pleated dim sum and Pan-Asian cooking in Dhanmondi, Dhaka. Steamed to order, open 12 PM – 11 PM daily. View the menu or reserve a table." },
+      { property: "og:description", content: "Hand-pleated dim sum and Pan-Asian cooking in Dhanmondi, Dhaka. Steamed to order, open 12 PM – 11 PM daily. View the menu or reserve a table." },
+      { name: "twitter:description", content: "Hand-pleated dim sum and Pan-Asian cooking in Dhanmondi, Dhaka. Steamed to order, open 12 PM – 11 PM daily. View the menu or reserve a table." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/5456cb24-a4ac-4c02-9e0f-b87562c9c5ba/id-preview-2d0cbc88--c6be2bd0-2a81-4a2c-9ad3-e9a211dfc57f.lovable.app-1785832515828.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/5456cb24-a4ac-4c02-9e0f-b87562c9c5ba/id-preview-2d0cbc88--c6be2bd0-2a81-4a2c-9ad3-e9a211dfc57f.lovable.app-1785832515828.png" },
     ],
     links: [
       {

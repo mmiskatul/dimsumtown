@@ -20,11 +20,11 @@ export const Route = createFileRoute("/")({
         content:
           "Hand-pleated dim sum and Pan-Asian cooking in Dhanmondi, Dhaka. Steamed to order, open 12 PM – 11 PM daily. View the menu or reserve a table.",
       },
-      { property: "og:title", content: "Dim Sum Town Dhanmondi | Pan-Asian & Dim Sum" },
+      { property: "og:title", content: "Dim Sum Town Dhanmondi | Pan-Asian & Dim Sum in Dhaka" },
       {
         property: "og:description",
         content:
-          "Where tradition meets innovation on the plate — dim sum, wok classics and Pan-Asian plates in Dhanmondi.",
+          "Hand-pleated dim sum and Pan-Asian cooking in Dhanmondi, Dhaka. Steamed to order, open 12 PM – 11 PM daily. View the menu or reserve a table.",
       },
     ],
   }),

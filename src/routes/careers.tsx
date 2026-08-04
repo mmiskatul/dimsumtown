@@ -147,7 +147,7 @@ function CareersPage() {
               </Field>
               <div className="sm:col-span-2">
                 <Field label="Role" htmlFor="a-role">
-                  <Select id="a-role" name="role" defaultValue={roles[0].title}>
+                  <Select id="a-role" name="role" defaultValue={roles[0]?.title}>
                     {roles.map((r) => (
                       <option key={r.title} value={r.title}>
                         {r.title}
